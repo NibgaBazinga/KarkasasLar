@@ -6,6 +6,7 @@
       <mapping pattern="ELVE" type="PLAIN_TEXT" />
       <mapping pattern="PHP aplikacija AirTicket" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping ext="view" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
